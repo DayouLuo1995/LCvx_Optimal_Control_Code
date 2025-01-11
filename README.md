@@ -4,8 +4,7 @@ This repository contains MATLAB code implementing the methods described in the p
 
 **"Revisiting Lossless Convexification: Theoretical Guarantees for Discrete-time Optimal Control Problems"**
 
-Authors: Dayou Luo, Kazuya Echigo, Behçet Açıkmeşe  
-Date: October 14, 2024
+Authors: Dayou Luo, Kazuya Echigo, Behçet Açıkmeşe  (https://arxiv.org/abs/2410.09748)
 
 ## Overview
 
@@ -38,4 +37,4 @@ This repository includes MATLAB scripts for applying the lossless convexificatio
 
 ## Reference
 
-Luo, D., Echigo, K., Açıkmeşe, B., "Revisiting Lossless Convexification: Theoretical Guarantees for Discrete-time Optimal Control Problems," [Journal Name], 2024.
+Luo, D., Echigo, K., Açıkmeşe, B., "Revisiting Lossless Convexification: Theoretical Guarantees for Discrete-time Optimal Control Problems," arXiv:2410.09748, 2024.
